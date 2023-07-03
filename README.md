@@ -84,7 +84,10 @@ Password reminder - functionality that allows you to set a new password for the 
     <summary> The Receptionist conducting the conversation with the Patient, after completing the activities related to the user’s request, may close the ticket by clicking on the “Close” button. In the view of the User's mobile application, a fragment of the conversation will be graphically separated from other messages. </summary>
 </details>
 
- <p><summary><b>  Class Diagram | Administrator Frame </summary>
+<p><summary><b> Clinic System Use Case </summary>
+<img width="570" alt="Ekran Resmi 2023-07-04 01 17 51" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f94a40ef-793a-4b7d-8a2e-4f58bf0c3698">
+
+<p><summary><b>  Class Diagram | Administrator Frame </summary>
 <img width="510" alt="Ekran Resmi 2023-07-04 01 00 01" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f35ee24d-6d08-4df6-aaf9-1d458c3b104a">
 
 <p><summary><b>  Class Diagram | Patient Frame </summary>
