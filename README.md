@@ -4,7 +4,7 @@ This repository contains the source code and UML diagrams for a software enginee
 ## Projects 
 
 ### Project 1: [Medical Clinic](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
-Description: The business goal of the project is to provide the User with the possibility of contacting a medical clinic to arrange a visit/medical consultation in a way that does not require telephone contact with the clinic. This will reduce the number of calls, which will shorten the waiting time for a connection with a clinic employee and will also increase the quality of services provided. Aim is making diagrams to understand system better.
+Description: The business goal of the project is to provide the User with the possibility of contacting a medical clinic to arrange a visit/medical consultation in a way that does not require telephone contact with the clinic. This will reduce the number of calls, which will shorten the waiting time for a connection with a clinic employee and will also increase the quality of services provided. Aim is to make diagrams to understand the system better.
 <details>
 <summary><b>1. Glossary of Terms </b></summary>
 <table>
@@ -64,14 +64,14 @@ number), and links to the Regulations and the Administrator's Privacy Policy.</l
 <summary> The solution assumes making the administration application available as a Web application. The application can be used by persons - receptionists who register themselves in advance and the system administrator activates their accounts.</summary>
  
   <p><summary><b> 3.1 Authentication model </b></summary></p>
-  <summary> Logging in - the process of authentication and authorisation of the Receptionist, consisting in providing the Registrar's ID and authentication password to gain access to use the Application.
+  <summary> Logging in - the process of authentication and authorization of the Receptionist, consisting in providing the Registrar's ID and authentication password to gain access to use the Application.
 Password reminder - functionality that allows you to set a new password for the application in case of its loss </summary>
 
  <p><summary><b> 3.2 Request list </b></summary></p>
    <summary> After logging in, the Registrar has access to the list of conversations with the Users. The list can be filtered by the following status: </summary>
       <ul>
     <li>Active - a list of notifications not assigned to any Registrar and taken by all Registrars.</li>
-    <li>Mine - a list of notifications taken by the logged in Registrar.</li>
+    <li>Mine - a list of notifications taken by the logged-in Registrar.</li>
     <li>Taken - a list of requests taken by all Receptionists.</li>
     <li>Not picked up - list of requests waiting to be picked up (not assigned to any Registrar).</li>
     </ul>
@@ -103,4 +103,6 @@ Password reminder - functionality that allows you to set a new password for the 
 <p><summary><b> Activity Diagram Login User </summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 11 56" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d72431fb-177f-4abc-847d-f021df68aade">
 
+<p><summary><b> State Diagram of Ticket </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 13 20" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/26f9bdbd-343f-4b8f-a2d0-671222647293">
 
