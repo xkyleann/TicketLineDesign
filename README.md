@@ -5,7 +5,6 @@ This repository contains the source code and UML diagrams for a software enginee
 
 ### Project 1: [Medical Clinic](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
 Description: The business goal of the project is to provide the User with the possibility of contacting a medical clinic to arrange a visit/medical consultation in a way that does not require telephone contact with the clinic. This will reduce the number of calls, which will shorten the waiting time for a connection with a clinic employee and will also increase the quality of services provided. Aim is making diagrams to understand system better.
-
 <details>
 <summary><b>1. Glossary of Terms </b></summary>
 <table>
@@ -44,7 +43,7 @@ Description: The business goal of the project is to provide the User with the po
   <li>phone number,</li>
   <li>password (repeated).</li>
 </ul>
-<summary> Registration requires confirmation of the email address by sending an authorisation code to the indicated address. The user is finally registered by entering the correct code from the email received. Login is done using an email address and password. After logging in to which, the user will be able to contact a Receptionist via the "Chat" functionality in order to arrange a visit/consultation without having to contact the clinic by phone. In case of forgetting the password, the User may request a new password using the “I forgot my password”.</summary>
+<summary> Registration requires confirmation of the email address by sending an authorization code to the indicated address. The user is finally registered by entering the correct code from the email received. Login is done using an email address and password. After logging in to which, the user will be able to contact a Receptionist via the "Chat" functionality in order to arrange a visit/consultation without having to contact the clinic by phone. In case of forgetting the password, the User may request a new password using the “I forgot my password”.</summary>
 <p>
   <summary><b>2.1 User Profile </b></summary>
 </p>
@@ -83,5 +82,15 @@ Password reminder - functionality that allows you to set a new password for the 
   
   <p><summary><b> 3.3 Closing a ticket </b></summary></p>
     <summary> The Receptionist conducting the conversation with the Patient, after completing the activities related to the user’s request, may close the ticket by clicking on the “Close” button. In the view of the User's mobile application, a fragment of the conversation will be graphically separated from other messages. </summary>
- 
- 
+</details>
+
+ <p><summary><b>  Class Diagram | Administrator Frame </summary>
+<img width="500" alt="Ekran Resmi 2023-07-04 01 00 01" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f35ee24d-6d08-4df6-aaf9-1d458c3b104a">
+
+<p><summary><b>  Class Diagram | Patient Frame </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 03 05" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/3d5fe9eb-4583-4aec-bb7a-3059f06f5ac8">
+
+
+<p><summary><b> Sequence Diagram for User Login </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 06 47" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d631a200-ad70-4d6f-80e2-6bb807655a83">
+
