@@ -2,7 +2,6 @@
 This repository contains the source code and UML diagrams for a software engineering project. The project aims to develop a software application or system using software engineering principles and practices.
 
 ## Projects 
-
 ### Project 1: [Medical Clinic](https://github.com/xkyleann/Software_Engineering/tree/main/Medical%20Clinic)
 Description: The business goal of the project is to provide the User with the possibility of contacting a medical clinic to arrange a visit/medical consultation in a way that does not require telephone contact with the clinic. This will reduce the number of calls, which will shorten the waiting time for a connection with a clinic employee and will also increase the quality of services provided. Aim is to make diagrams to understand the system better.
 <details>
@@ -84,28 +83,39 @@ Password reminder - functionality that allows you to set a new password for the 
     <summary> The Receptionist conducting the conversation with the Patient, after completing the activities related to the user’s request, may close the ticket by clicking on the “Close” button. In the view of the User's mobile application, a fragment of the conversation will be graphically separated from other messages. </summary>
 </details>
 
-<p><summary><b> Clinic System Use Case </summary>
+<p><summary><b> Clinic System Use Case </b></summary>
 <img width="570" alt="Ekran Resmi 2023-07-04 01 17 51" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f94a40ef-793a-4b7d-8a2e-4f58bf0c3698">
 
-<p><summary><b>  Class Diagram | Administrator Frame </summary>
+<p><summary><b>  Class Diagram | Administrator Frame </b></summary>
 <img width="510" alt="Ekran Resmi 2023-07-04 01 00 01" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f35ee24d-6d08-4df6-aaf9-1d458c3b104a">
 
-<p><summary><b>  Class Diagram | Patient Frame </summary>
+<p><summary><b>  Class Diagram | Patient Frame </b></summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 03 05" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/3d5fe9eb-4583-4aec-bb7a-3059f06f5ac8">
 
 
-<p><summary><b> Sequence Diagram for User Login </summary>
+<p><summary><b> Sequence Diagram for User Login </b></summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 06 47" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d631a200-ad70-4d6f-80e2-6bb807655a83">
 
-<p><summary><b> Sequence Diagram for User Registration | User = Patient </summary>
+<p><summary><b> Sequence Diagram for User Registration | User = Patient </b></summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 09 03" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/cf25e26e-4836-44e7-b013-476b51301e85">
 
-<p><summary><b> Sequence Diagram for Chat Receptionist </summary>
+<p><summary><b> Sequence Diagram for Chat Receptionist </b></summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 10 56" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/b4a1c2ea-0e19-4cc7-b20f-5ae16bb241af">
 
-<p><summary><b> Activity Diagram Login User </summary>
+<p><summary><b> Activity Diagram Login User </b></summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 11 56" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d72431fb-177f-4abc-847d-f021df68aade">
 
-<p><summary><b> State Diagram of Ticket </summary>
-<img width="515" alt="Ekran Resmi 2023-07-04 01 13 20" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/26f9bdbd-343f-4b8f-a2d0-671222647293">
+<p><summary><b> State Diagram of Ticket </b></summary></p>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 13 20" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/26f9bdbd-343f-4b8f-a2d0-671222647293"> 
+
+  
+### Project 2: [Spring Boot Admin]
+Spring Boot Admin  project includes details about the logical and physical architecture, along with class and system dynamic diagrams. These diagrams provide a thorough understanding of the project's structure and behavior.
+
+<p><summary><b> Class Diagram for Spring Boot Admin </b></summary></p>
+<img width="800" alt="Ekran Resmi 2023-07-04 01 13 20" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/c2833433-9373-4167-948d-b177cf852f86"> 
+
+<p><summary><b> Class Diagram for Spring Boot Admin Web-Site </b></summary></p>
+<img width="800" alt="Ekran Resmi 2023-07-04 01 13 20"src="https://github.com/xkyleann/Software_Engineering/assets/128597547/6f173bda-862a-4e64-8a99-2ca2b26ea73c"> 
+
 
