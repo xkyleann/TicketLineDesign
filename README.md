@@ -3,7 +3,7 @@ This repository contains the source code and UML diagrams for a software enginee
 
 ## Projects 
 
-### Project 1: [Medical Clinic](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
+### Project 1: [Medical Clinic](https://github.com/xkyleann/Software_Engineering/tree/main/Medical%20Clinic)
 Description: The business goal of the project is to provide the User with the possibility of contacting a medical clinic to arrange a visit/medical consultation in a way that does not require telephone contact with the clinic. This will reduce the number of calls, which will shorten the waiting time for a connection with a clinic employee and will also increase the quality of services provided. Aim is to make diagrams to understand the system better.
 <details>
 <summary><b>1. Glossary of Terms </b></summary>
