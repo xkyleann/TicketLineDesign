@@ -85,7 +85,7 @@ Password reminder - functionality that allows you to set a new password for the 
 </details>
 
  <p><summary><b>  Class Diagram | Administrator Frame </summary>
-<img width="500" alt="Ekran Resmi 2023-07-04 01 00 01" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f35ee24d-6d08-4df6-aaf9-1d458c3b104a">
+<img width="510" alt="Ekran Resmi 2023-07-04 01 00 01" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/f35ee24d-6d08-4df6-aaf9-1d458c3b104a">
 
 <p><summary><b>  Class Diagram | Patient Frame </summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 03 05" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/3d5fe9eb-4583-4aec-bb7a-3059f06f5ac8">
@@ -93,4 +93,14 @@ Password reminder - functionality that allows you to set a new password for the 
 
 <p><summary><b> Sequence Diagram for User Login </summary>
 <img width="515" alt="Ekran Resmi 2023-07-04 01 06 47" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d631a200-ad70-4d6f-80e2-6bb807655a83">
+
+<p><summary><b> Sequence Diagram for User Registration | User = Patient </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 09 03" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/cf25e26e-4836-44e7-b013-476b51301e85">
+
+<p><summary><b> Sequence Diagram for Chat Receptionist </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 10 56" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/b4a1c2ea-0e19-4cc7-b20f-5ae16bb241af">
+
+<p><summary><b> Activity Diagram Login User </summary>
+<img width="515" alt="Ekran Resmi 2023-07-04 01 11 56" src="https://github.com/xkyleann/Software_Engineering/assets/128597547/d72431fb-177f-4abc-847d-f021df68aade">
+
 
