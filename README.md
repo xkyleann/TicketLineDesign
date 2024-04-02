@@ -1,5 +1,5 @@
 # Design of Medical Clinic Ticket Line
-This repository contains the source code and UML diagrams for a software engineering project. The project aims to develop a software application or system using software engineering principles and practices.
+This repository contains the source code and UML diagrams for a software engineering project. The project aims to develop a software application or system using software engineering principles and practice.
 
 ## Projects 
 ### Project 1: [Medical Clinic](https://github.com/xkyleann/Software_Engineering/tree/main/Medical%20Clinic)
